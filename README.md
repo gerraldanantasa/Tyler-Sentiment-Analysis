@@ -8,7 +8,7 @@ The analysis explores Tyler, The Creator's lyrics, focusing on:
 
 - Sentiment analysis of lyrics from various songs.
 - How sentiment evolves across albums.
-- Exploring the correlation between lyrics and emotional expression.
+- Exploring the correlation between lyrics' sentiment and popularity.
 
 Article: [Exploring Tyler, The Creator's Lyrics: A Sentiment Analysis](https://medium.com/@anantasagerrald/exploring-tyler-the-creators-lyrics-a-exploration-with-sentiment-analysis-dc3985c1f86d).
 
